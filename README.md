@@ -1,4 +1,4 @@
-# url_query_decoder
+# URL Query Decoder
 A chrome plugin that decodes the url query parameters and lets to click to copy to clipboard
 
 # Icons
