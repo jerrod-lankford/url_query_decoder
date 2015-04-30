@@ -1,0 +1,27 @@
+button {
+	width : 100%;
+}
+.paramButtons {
+	max-width: 150px;
+}
+
+#fullButton {
+	max-width:750px;
+}
+#fullUrl {
+	margin-top: 5px;
+	min-width: 300px;
+	max-width: 750px;
+}
+
+.textDiv {
+	width: 100%;
+	overflow: hidden;
+    white-space: nowrap;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.params {
+	max-width: 600px;
+}
